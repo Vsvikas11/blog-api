@@ -1,1 +1,1 @@
-I created a blog api for backend with express.js and mongoDB.
+I created a blog backend with express.js and mongoDB.
